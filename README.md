@@ -67,3 +67,11 @@ Observed:
 
 ## 🎯 Conclusion
 This project demonstrates practical understanding of port scanning, service enumeration, and packet-level traffic inspection using industry-standard tools.
+
+## 📸 Screenshots
+
+### Nmap Scan
+![Nmap Scan](screenshots/nmap_scan.png)
+
+### Wireshark TCP Stream
+![Wireshark TCP Stream](screenshots/wireshark_tcp_stream.png)
